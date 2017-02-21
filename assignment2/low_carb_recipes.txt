@@ -1,0 +1,9 @@
+Salad:Chicken:12.50:80
+Salad:Veggie:11.50:60
+Pancakes:MapleSyrup:12.50:80
+Sandwhich:veggie:5.50:75
+Sandwhich:chicken:5.50:90
+ZakiniNoodles:Barbecue Sauce:6.69:100
+Pancakes:Honey:11.50:75
+OatMeal:Milk:8.50:60
+CauliflowerFriedRice:RedSauce:7.69:115

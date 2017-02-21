@@ -1,0 +1,9 @@
+CreamyFingerlingPotato:Salad:6.69:100
+Jicama&PomeloSalad:SpicyThai Dressing:7.89:110
+CreamyFingerlingPotato:Salad:6.69:100
+CauliflowerFriedRice:PestoSauce:7.69:115
+CauliFlowerFriedRice:PinkSauce:7.57:115
+CreamyFingerLingPotato:Salad:6.69:100
+VegetarianBeanChili:Salad(warm):5.60:120
+AvocadoBurritoBowl:Salad:6.69:90
+VeganBurger:HotSauce:3.59:100

@@ -1,0 +1,10 @@
+PotatoFries:Cheese:4.389:200
+Pizza:Thincrust:7.50:360
+Pizza:Thickcrust:7.50:400
+Pizza:Cheeseburst:10.50:450
+Burger:Veggie:6.50:140
+Burger:Chicken:7.50:150
+Burger:Beef:6.50:150
+Pasta:WhiteSauce:10.50:380
+Pasta:RedSauce:10.50:380
+Pasta:PestoSauce:10.50:380
