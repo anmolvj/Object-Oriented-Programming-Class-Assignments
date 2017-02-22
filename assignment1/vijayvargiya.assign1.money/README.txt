@@ -7,4 +7,4 @@ The program was required to have following-
     to display the total money.
 (4) A method called add(USMoney money) that creates and returns a new USMoney object representing
     the sum of the object whose add() is invoked and the object passed as parameter. 
-(5) A class called USMoneyTester with the main method and few test cases.   
+(5) A class called 'USMoneyTester' with the main method and few test cases.   
